@@ -1,0 +1,822 @@
+䲡:19617:U+4ca1:not similar
+䲢:19618:U+4ca2:not similar
+䲣:䱷:19619:U+4ca3:19575:U+4c77:27.96:98:96
+䲤:19620:U+4ca4:not similar
+䲥:19621:U+4ca5:not similar
+䲦:19622:U+4ca6:not similar
+䲧:19623:U+4ca7:not similar
+䲨:鳿:19624:U+4ca8:40191:U+9cff:27.96:80:84
+䲩:19625:U+4ca9:not similar
+䲪:19626:U+4caa:not similar
+䲫:19627:U+4cab:not similar
+䲬:19628:U+4cac:not similar
+䲭:19629:U+4cad:not similar
+䲮:19630:U+4cae:not similar
+䲯:19631:U+4caf:not similar
+䲰:19632:U+4cb0:not similar
+䲱:19633:U+4cb1:not similar
+䲲:19634:U+4cb2:not similar
+䲳:19635:U+4cb3:not similar
+䲴:19636:U+4cb4:not similar
+䲵:19637:U+4cb5:not similar
+䲶:19638:U+4cb6:not similar
+䲷:19639:U+4cb7:not similar
+䲸:19640:U+4cb8:not similar
+䲹:19641:U+4cb9:not similar
+䲺:19642:U+4cba:not similar
+䲻:19643:U+4cbb:not similar
+䲼:19644:U+4cbc:not similar
+䲽:19645:U+4cbd:not similar
+䲾:19646:U+4cbe:not similar
+䲿:19647:U+4cbf:not similar
+䳀:19648:U+4cc0:not similar
+䳁:19649:U+4cc1:not similar
+䳂:19650:U+4cc2:not similar
+䳃:19651:U+4cc3:not similar
+䳄:19652:U+4cc4:not similar
+䳅:19653:U+4cc5:not similar
+䳆:19654:U+4cc6:not similar
+䳇:19655:U+4cc7:not similar
+䳈:19656:U+4cc8:not similar
+䳉:19657:U+4cc9:not similar
+䳊:19658:U+4cca:not similar
+䳋:19659:U+4ccb:not similar
+䳌:19660:U+4ccc:not similar
+䳍:19661:U+4ccd:not similar
+䳎:19662:U+4cce:not similar
+䳏:19663:U+4ccf:not similar
+䳐:19664:U+4cd0:not similar
+䳑:19665:U+4cd1:not similar
+䳒:19666:U+4cd2:not similar
+䳓:19667:U+4cd3:not similar
+䳔:19668:U+4cd4:not similar
+䳕:19669:U+4cd5:not similar
+䳖:19670:U+4cd6:not similar
+䳗:19671:U+4cd7:not similar
+䳘:19672:U+4cd8:not similar
+䳙:19673:U+4cd9:not similar
+䳚:19674:U+4cda:not similar
+䳛:19675:U+4cdb:not similar
+䳜:19676:U+4cdc:not similar
+䳝:19677:U+4cdd:not similar
+䳞:19678:U+4cde:not similar
+䳟:19679:U+4cdf:not similar
+䳠:19680:U+4ce0:not similar
+䳡:19681:U+4ce1:not similar
+䳢:19682:U+4ce2:not similar
+䳣:19683:U+4ce3:not similar
+䳤:19684:U+4ce4:not similar
+䳥:19685:U+4ce5:not similar
+䳦:19686:U+4ce6:not similar
+䳧:19687:U+4ce7:not similar
+䳨:19688:U+4ce8:not similar
+䳩:19689:U+4ce9:not similar
+䳪:19690:U+4cea:not similar
+䳫:19691:U+4ceb:not similar
+䳬:19692:U+4cec:not similar
+䳭:19693:U+4ced:not similar
+䳮:19694:U+4cee:not similar
+䳯:19695:U+4cef:not similar
+䳰:19696:U+4cf0:not similar
+䳱:19697:U+4cf1:not similar
+䳲:19698:U+4cf2:not similar
+䳳:19699:U+4cf3:not similar
+䳴:19700:U+4cf4:not similar
+䳵:19701:U+4cf5:not similar
+䳶:19702:U+4cf6:not similar
+䳷:19703:U+4cf7:not similar
+䳸:19704:U+4cf8:not similar
+䳹:19705:U+4cf9:not similar
+䳺:19706:U+4cfa:not similar
+䳻:19707:U+4cfb:not similar
+䳼:19708:U+4cfc:not similar
+䳽:19709:U+4cfd:not similar
+䳾:19710:U+4cfe:not similar
+䳿:19711:U+4cff:not similar
+䴀:19712:U+4d00:not similar
+䴁:19713:U+4d01:not similar
+䴂:19714:U+4d02:not similar
+䴃:19715:U+4d03:not similar
+䴄:19716:U+4d04:not similar
+䴅:19717:U+4d05:not similar
+䴆:19718:U+4d06:not similar
+䴇:19719:U+4d07:not similar
+䴈:19720:U+4d08:not similar
+䴉:19721:U+4d09:not similar
+䴊:19722:U+4d0a:not similar
+䴋:19723:U+4d0b:not similar
+䴌:19724:U+4d0c:not similar
+䴍:19725:U+4d0d:not similar
+䴎:19726:U+4d0e:not similar
+䴏:19727:U+4d0f:not similar
+䴐:19728:U+4d10:not similar
+䴑:19729:U+4d11:not similar
+䴒:19730:U+4d12:not similar
+䴓:19731:U+4d13:not similar
+䴔:19732:U+4d14:not similar
+䴕:19733:U+4d15:not similar
+䴖:19734:U+4d16:not similar
+䴗:19735:U+4d17:not similar
+䴘:19736:U+4d18:not similar
+䴙:19737:U+4d19:not similar
+䴚:19738:U+4d1a:not similar
+䴛:19739:U+4d1b:not similar
+䴜:19740:U+4d1c:not similar
+䴝:19741:U+4d1d:not similar
+䴞:19742:U+4d1e:not similar
+䴟:19743:U+4d1f:not similar
+䴠:麇:19744:U+4d20:40583:U+9e87:24.95:105:105
+䴡:19745:U+4d21:not similar
+䴢:麋:19746:U+4d22:40587:U+9e8b:27.96:100:104
+䴣:19747:U+4d23:not similar
+䴤:19748:U+4d24:not similar
+䴥:19749:U+4d25:not similar
+䴦:19750:U+4d26:not similar
+䴧:19751:U+4d27:not similar
+䴨:19752:U+4d28:not similar
+䴩:19753:U+4d29:not similar
+䴪:19754:U+4d2a:not similar
+䴫:19755:U+4d2b:not similar
+䴬:䴰:19756:U+4d2c:19760:U+4d30:25.53:74:81
+䴭:19757:U+4d2d:not similar
+䴮:19758:U+4d2e:not similar
+䴯:19759:U+4d2f:not similar
+䴰:䴬:19760:U+4d30:19756:U+4d2c:25.53:81:74
+䴱:19761:U+4d31:not similar
+䴲:19762:U+4d32:not similar
+䴳:19763:U+4d33:not similar
+䴴:19764:U+4d34:not similar
+䴵:19765:U+4d35:not similar
+䴶:19766:U+4d36:not similar
+䴷:19767:U+4d37:not similar
+䴸:19768:U+4d38:not similar
+䴹:19769:U+4d39:not similar
+䴺:19770:U+4d3a:not similar
+䴻:19771:U+4d3b:not similar
+䴼:19772:U+4d3c:not similar
+䴽:19773:U+4d3d:not similar
+䴾:19774:U+4d3e:not similar
+䴿:19775:U+4d3f:not similar
+䵀:19776:U+4d40:not similar
+䵁:19777:U+4d41:not similar
+䵂:19778:U+4d42:not similar
+䵃:19779:U+4d43:not similar
+䵄:19780:U+4d44:not similar
+䵅:19781:U+4d45:not similar
+䵆:19782:U+4d46:not similar
+䵇:19783:U+4d47:not similar
+䵈:19784:U+4d48:not similar
+䵉:19785:U+4d49:not similar
+䵊:19786:U+4d4a:not similar
+䵋:19787:U+4d4b:not similar
+䵌:19788:U+4d4c:not similar
+䵍:19789:U+4d4d:not similar
+䵎:19790:U+4d4e:not similar
+䵏:19791:U+4d4f:not similar
+䵐:19792:U+4d50:not similar
+䵑:19793:U+4d51:not similar
+䵒:19794:U+4d52:not similar
+䵓:19795:U+4d53:not similar
+䵔:19796:U+4d54:not similar
+䵕:19797:U+4d55:not similar
+䵖:19798:U+4d56:not similar
+䵗:19799:U+4d57:not similar
+䵘:19800:U+4d58:not similar
+䵙:19801:U+4d59:not similar
+䵚:19802:U+4d5a:not similar
+䵛:19803:U+4d5b:not similar
+䵜:19804:U+4d5c:not similar
+䵝:19805:U+4d5d:not similar
+䵞:19806:U+4d5e:not similar
+䵟:19807:U+4d5f:not similar
+䵠:19808:U+4d60:not similar
+䵡:19809:U+4d61:not similar
+䵢:19810:U+4d62:not similar
+䵣:19811:U+4d63:not similar
+䵤:19812:U+4d64:not similar
+䵥:19813:U+4d65:not similar
+䵦:19814:U+4d66:not similar
+䵧:19815:U+4d67:not similar
+䵨:19816:U+4d68:not similar
+䵩:19817:U+4d69:not similar
+䵪:19818:U+4d6a:not similar
+䵫:19819:U+4d6b:not similar
+䵬:19820:U+4d6c:not similar
+䵭:19821:U+4d6d:not similar
+䵮:19822:U+4d6e:not similar
+䵯:19823:U+4d6f:not similar
+䵰:19824:U+4d70:not similar
+䵱:19825:U+4d71:not similar
+䵲:19826:U+4d72:not similar
+䵳:19827:U+4d73:not similar
+䵴:19828:U+4d74:not similar
+䵵:19829:U+4d75:not similar
+䵶:19830:U+4d76:not similar
+䵷:19831:U+4d77:not similar
+䵸:19832:U+4d78:not similar
+䵹:19833:U+4d79:not similar
+䵺:19834:U+4d7a:not similar
+䵻:19835:U+4d7b:not similar
+䵼:19836:U+4d7c:not similar
+䵽:19837:U+4d7d:not similar
+䵾:19838:U+4d7e:not similar
+䵿:19839:U+4d7f:not similar
+䶀:19840:U+4d80:not similar
+䶁:19841:U+4d81:not similar
+䶂:19842:U+4d82:not similar
+䶃:19843:U+4d83:not similar
+䶄:19844:U+4d84:not similar
+䶅:19845:U+4d85:not similar
+䶆:19846:U+4d86:not similar
+䶇:鼱:19847:U+4d87:40753:U+9f31:24.95:111:105
+䶈:19848:U+4d88:not similar
+䶉:19849:U+4d89:not similar
+䶊:19850:U+4d8a:not similar
+䶋:19851:U+4d8b:not similar
+䶌:19852:U+4d8c:not similar
+䶍:19853:U+4d8d:not similar
+䶎:19854:U+4d8e:not similar
+䶏:19855:U+4d8f:not similar
+䶐:19856:U+4d90:not similar
+䶑:19857:U+4d91:not similar
+䶒:19858:U+4d92:not similar
+䶓:19859:U+4d93:not similar
+䶔:19860:U+4d94:not similar
+䶕:19861:U+4d95:not similar
+䶖:19862:U+4d96:not similar
+䶗:19863:U+4d97:not similar
+䶘:19864:U+4d98:not similar
+䶙:19865:U+4d99:not similar
+䶚:19866:U+4d9a:not similar
+䶛:19867:U+4d9b:not similar
+䶜:19868:U+4d9c:not similar
+䶝:19869:U+4d9d:not similar
+䶞:19870:U+4d9e:not similar
+䶟:19871:U+4d9f:not similar
+䶠:19872:U+4da0:not similar
+䶡:19873:U+4da1:not similar
+䶢:19874:U+4da2:not similar
+䶣:19875:U+4da3:not similar
+䶤:19876:U+4da4:not similar
+䶥:19877:U+4da5:not similar
+䶦:19878:U+4da6:not similar
+䶧:19879:U+4da7:not similar
+䶨:19880:U+4da8:not similar
+䶩:19881:U+4da9:not similar
+䶪:19882:U+4daa:not similar
+䶫:19883:U+4dab:not similar
+䶬:19884:U+4dac:not similar
+䶭:19885:U+4dad:not similar
+䶮:19886:U+4dae:not similar
+䶯:19887:U+4daf:not similar
+䶰:19888:U+4db0:not similar
+䶱:19889:U+4db1:not similar
+䶲:19890:U+4db2:not similar
+䶳:19891:U+4db3:not similar
+䶴:19892:U+4db4:not similar
+䶵:19893:U+4db5:not similar
+一:ᚁ:19968:U+4e00:5761:U+1681:25.53:15:22
+一:ᚆ:19968:U+4e00:5766:U+1686:25.53:15:22
+一:ᚐ:19968:U+4e00:5776:U+1690:26.99:15:20
+一:ᚑ:19968:U+4e00:5777:U+1691:24.44:15:24
+一:ᚚ:19968:U+4e00:5786:U+169a:24.44:15:24
+一:ㄧ:19968:U+4e00:12583:U+3127:29.21:15:12
+一:ㆺ:19968:U+4e00:12730:U+31ba:23.98:15:21
+一:𐎚:19968:U+4e00:66458:U+1039a:25.53:15:20
+一:𞠥:19968:U+4e00:124965:U+1e825:26.99:15:12
+一:𞡁:19968:U+4e00:124993:U+1e841:26.99:15:12
+丁:丅:19969:U+4e01:19973:U+4e05:26.99:28:29
+丁:了:19969:U+4e01:20102:U+4e86:24.95:28:28
+丂:19970:U+4e02:not similar
+七:19971:U+4e03:not similar
+丄:土:19972:U+4e04:22303:U+571f:23.98:29:39
+丅:丁:19973:U+4e05:19969:U+4e01:26.99:29:28
+丆:19974:U+4e06:not similar
+万:19975:U+4e07:not similar
+丈:19976:U+4e08:not similar
+三:19977:U+4e09:not similar
+上:19978:U+4e0a:not similar
+下:19979:U+4e0b:not similar
+丌:19980:U+4e0c:not similar
+不:19981:U+4e0d:not similar
+与:19982:U+4e0e:not similar
+丏:丐:19983:U+4e0f:19984:U+4e10:29.21:55:52
+丐:丏:19984:U+4e10:19983:U+4e0f:29.21:52:55
+丑:19985:U+4e11:not similar
+丒:19986:U+4e12:not similar
+专:19987:U+4e13:not similar
+且:19988:U+4e14:not similar
+丕:19989:U+4e15:not similar
+世:19990:U+4e16:not similar
+丗:19991:U+4e17:not similar
+丘:19992:U+4e18:not similar
+丙:19993:U+4e19:not similar
+业:19994:U+4e1a:not similar
+丛:19995:U+4e1b:not similar
+东:19996:U+4e1c:not similar
+丝:19997:U+4e1d:not similar
+丞:19998:U+4e1e:not similar
+丟:19999:U+4e1f:not similar
+丠:20000:U+4e20:not similar
+両:20001:U+4e21:not similar
+丢:20002:U+4e22:not similar
+丣:戼:20003:U+4e23:25148:U+623c:29.21:66:63
+两:20004:U+4e24:not similar
+严:20005:U+4e25:not similar
+並:20006:U+4e26:not similar
+丧:20007:U+4e27:not similar
+丨:丬:20008:U+4e28:20012:U+4e2c:24.95:16:24
+丨:ꖋ:20008:U+4e28:42379:U+a58b:24.44:16:15
+丨:ꖌ:20008:U+4e28:42380:U+a58c:25.53:16:13
+丨:𐎂:20008:U+4e28:66434:U+10382:24.95:16:20
+丨:𐢎:20008:U+4e28:67726:U+1088e:23.98:16:18
+丩:20009:U+4e29:not similar
+个:20010:U+4e2a:not similar
+丫:20011:U+4e2b:not similar
+丬:丨:20012:U+4e2c:20008:U+4e28:24.95:24:16
+中:20013:U+4e2d:not similar
+丮:20014:U+4e2e:not similar
+丯:20015:U+4e2f:not similar
+丰:羊:20016:U+4e30:32650:U+7f8a:24.44:52:55
+丱:20017:U+4e31:not similar
+串:20018:U+4e32:not similar
+丳:20019:U+4e33:not similar
+临:20020:U+4e34:not similar
+丵:20021:U+4e35:not similar
+丶:-:20022:U+4e36:45:U+002d:23.98:6:4
+丶:ʹ:20022:U+4e36:697:U+02b9:24.44:6:3
+丶:ʺ:20022:U+4e36:698:U+02ba:23.98:6:6
+丶:ˆ:20022:U+4e36:710:U+02c6:24.95:6:4
+丶:ˇ:20022:U+4e36:711:U+02c7:23.98:6:4
+丶:ˈ:20022:U+4e36:712:U+02c8:24.44:6:3
+丶:ˉ:20022:U+4e36:713:U+02c9:23.98:6:4
+丶:ˊ:20022:U+4e36:714:U+02ca:23.98:6:4
+丶:ˋ:20022:U+4e36:715:U+02cb:24.95:6:4
+丶:ˌ:20022:U+4e36:716:U+02cc:23.98:6:4
+丶:ˍ:20022:U+4e36:717:U+02cd:23.98:6:4
+丶:ˎ:20022:U+4e36:718:U+02ce:23.98:6:4
+丶:ˏ:20022:U+4e36:719:U+02cf:23.98:6:4
+丶:ˑ:20022:U+4e36:721:U+02d1:23.98:6:4
+丶:ՙ:20022:U+4e36:1369:U+0559:23.98:6:4
+丶:ހ:20022:U+4e36:1920:U+0780:23.98:6:4
+丶:ࠤ:20022:U+4e36:2084:U+0824:23.98:6:6
+丶:ॱ:20022:U+4e36:2417:U+0971:24.44:6:6
+丶:་:20022:U+4e36:3851:U+0f0b:23.98:6:4
+丶:ᐧ:20022:U+4e36:5159:U+1427:23.98:6:4
+丶:ᣟ:20022:U+4e36:6367:U+18df:23.98:6:4
+丶:᭐:20022:U+4e36:6992:U+1b50:23.98:6:8
+丶:ᰊ:20022:U+4e36:7178:U+1c0a:23.98:6:12
+丶:ᱸ:20022:U+4e36:7288:U+1c78:23.98:6:4
+丶:ᱹ:20022:U+4e36:7289:U+1c79:23.98:6:4
+丶:ᱼ:20022:U+4e36:7292:U+1c7c:24.44:6:3
+丶:ゝ:20022:U+4e36:12445:U+309d:24.95:6:8
+丶:ヽ:20022:U+4e36:12541:U+30fd:24.44:6:7
+丶:ꓸ:20022:U+4e36:42232:U+a4f8:23.98:6:4
+丶:𐇽:20022:U+4e36:66045:U+101fd:23.98:6:4
+丶:𐋠:20022:U+4e36:66272:U+102e0:24.44:6:3
+丶:𐙥:20022:U+4e36:67173:U+10665:24.95:6:12
+丶:𐨅:20022:U+4e36:68101:U+10a05:23.98:6:4
+丶:𐨌:20022:U+4e36:68108:U+10a0c:23.98:6:4
+丶:𐨺:20022:U+4e36:68154:U+10a3a:24.44:6:3
+丶:𐴥:20022:U+4e36:68901:U+10d25:23.98:6:4
+丶:𐽆:20022:U+4e36:69446:U+10f46:23.98:6:4
+丶:𐽈:20022:U+4e36:69448:U+10f48:23.98:6:4
+丶:𐽐:20022:U+4e36:69456:U+10f50:24.44:6:3
+丶:𐿩:20022:U+4e36:69609:U+10fe9:24.44:6:3
+丶:𑀁:20022:U+4e36:69633:U+11001:23.98:6:4
+丶:𑀸:20022:U+4e36:69688:U+11038:23.98:6:4
+丶:𑀼:20022:U+4e36:69692:U+1103c:23.98:6:4
+丶:𑀾:20022:U+4e36:69694:U+1103e:23.98:6:4
+丶:𑁂:20022:U+4e36:69698:U+11042:23.98:6:4
+丶:𑂁:20022:U+4e36:69761:U+11081:23.98:6:4
+丶:𑂵:20022:U+4e36:69813:U+110b5:23.98:6:4
+丶:𑂺:20022:U+4e36:69818:U+110ba:23.98:6:4
+丶:𑄁:20022:U+4e36:69889:U+11101:23.98:6:4
+丶:𑄧:20022:U+4e36:69927:U+11127:24.44:6:3
+丶:𑄪:20022:U+4e36:69930:U+1112a:24.44:6:3
+丶:𑄴:20022:U+4e36:69940:U+11134:23.98:6:4
+丶:𑅳:20022:U+4e36:70003:U+11173:23.98:6:4
+丶:𑆁:20022:U+4e36:70017:U+11181:25.53:6:1
+丶:𑇊:20022:U+4e36:70090:U+111ca:23.98:6:4
+丶:𑇋:20022:U+4e36:70091:U+111cb:24.44:6:3
+丶:𑇌:20022:U+4e36:70092:U+111cc:24.44:6:3
+丶:𑇐:20022:U+4e36:70096:U+111d0:24.95:6:4
+丶:𑈴:20022:U+4e36:70196:U+11234:23.98:6:4
+丶:𑈶:20022:U+4e36:70198:U+11236:24.44:6:3
+丶:𑋚:20022:U+4e36:70362:U+112da:23.98:6:12
+丶:𑋟:20022:U+4e36:70367:U+112df:23.98:6:4
+丶:𑋩:20022:U+4e36:70377:U+112e9:23.98:6:4
+丶:𑌻:20022:U+4e36:70459:U+1133b:23.98:6:4
+丶:𑑆:20022:U+4e36:70726:U+11446:23.98:6:4
+丶:𑓃:20022:U+4e36:70851:U+114c3:23.98:6:4
+丶:𑖽:20022:U+4e36:71101:U+115bd:23.98:6:4
+丶:𑗀:20022:U+4e36:71104:U+115c0:23.98:6:4
+丶:𑘽:20022:U+4e36:71229:U+1163d:23.98:6:4
+丶:𑘿:20022:U+4e36:71231:U+1163f:23.98:6:4
+丶:𑚫:20022:U+4e36:71339:U+116ab:25.53:6:1
+丶:𑚬:20022:U+4e36:71340:U+116ac:24.95:6:2
+丶:𑚭:20022:U+4e36:71341:U+116ad:24.44:6:3
+丶:𑚷:20022:U+4e36:71351:U+116b7:25.53:6:1
+丶:𑛀:20022:U+4e36:71360:U+116c0:26.2:6:4
+丶:𑛆:20022:U+4e36:71366:U+116c6:24.44:6:13
+丶:𑠷:20022:U+4e36:71735:U+11837:23.98:6:4
+丶:𑠺:20022:U+4e36:71738:U+1183a:23.98:6:4
+丶:𑧖:20022:U+4e36:72150:U+119d6:23.98:6:4
+丶:𑧚:20022:U+4e36:72154:U+119da:24.44:6:3
+丶:𑨇:20022:U+4e36:72199:U+11a07:24.44:6:3
+丶:𑨈:20022:U+4e36:72200:U+11a08:24.44:6:3
+丶:𑨊:20022:U+4e36:72202:U+11a0a:24.95:6:2
+丶:𑨳:20022:U+4e36:72243:U+11a33:23.98:6:4
+丶:𑩛:20022:U+4e36:72283:U+11a5b:24.44:6:3
+丶:𑪆:20022:U+4e36:72326:U+11a86:23.98:6:4
+丶:𑪇:20022:U+4e36:72327:U+11a87:23.98:6:4
+丶:𑪉:20022:U+4e36:72329:U+11a89:23.98:6:4
+丶:𑪋:20022:U+4e36:72331:U+11a8b:23.98:6:4
+丶:𑪑:20022:U+4e36:72337:U+11a91:23.98:6:4
+丶:𑪕:20022:U+4e36:72341:U+11a95:24.44:6:3
+丶:𑫯:20022:U+4e36:72431:U+11aef:23.98:6:4
+丶:𑱑:20022:U+4e36:72785:U+11c51:26.2:6:12
+丶:𑲵:20022:U+4e36:72885:U+11cb5:23.98:6:4
+丶:𑴺:20022:U+4e36:73018:U+11d3a:23.98:6:4
+丶:𑵀:20022:U+4e36:73024:U+11d40:23.98:6:4
+丶:𑵂:20022:U+4e36:73026:U+11d42:23.98:6:4
+丶:𑵃:20022:U+4e36:73027:U+11d43:23.98:6:4
+丶:𑵄:20022:U+4e36:73028:U+11d44:24.44:6:3
+丶:𑵅:20022:U+4e36:73029:U+11d45:24.44:6:3
+丶:𑵇:20022:U+4e36:73031:U+11d47:23.98:6:4
+丶:𑻳:20022:U+4e36:73459:U+11ef3:23.98:6:4
+丶:𑻴:20022:U+4e36:73460:U+11ef4:23.98:6:4
+丶:𖫰:20022:U+4e36:92912:U+16af0:25.53:6:1
+丶:𖫱:20022:U+4e36:92913:U+16af1:24.44:6:3
+丶:𖫲:20022:U+4e36:92914:U+16af2:24.95:6:2
+丶:𖫳:20022:U+4e36:92915:U+16af3:24.95:6:2
+丶:𖫴:20022:U+4e36:92916:U+16af4:23.98:6:4
+丶:𖬰:20022:U+4e36:92976:U+16b30:25.53:6:1
+丶:𖬱:20022:U+4e36:92977:U+16b31:23.98:6:4
+丶:𖬶:20022:U+4e36:92982:U+16b36:24.95:6:2
+丶:𖭀:20022:U+4e36:92992:U+16b40:24.44:6:3
+丶:𖽏:20022:U+4e36:94031:U+16f4f:23.98:6:4
+丶:𖽔:20022:U+4e36:94036:U+16f54:23.98:6:4
+丶:𛰀:20022:U+4e36:113664:U+1bc00:23.98:6:4
+丶:𛰂:20022:U+4e36:113666:U+1bc02:23.98:6:4
+丶:𛰃:20022:U+4e36:113667:U+1bc03:23.98:6:4
+丶:𛰄:20022:U+4e36:113668:U+1bc04:23.98:6:4
+丶:𛰎:20022:U+4e36:113678:U+1bc0e:24.95:6:12
+丶:𛲀:20022:U+4e36:113792:U+1bc80:23.98:6:4
+丶:𛲂:20022:U+4e36:113794:U+1bc82:23.98:6:4
+丶:𛲃:20022:U+4e36:113795:U+1bc83:23.98:6:6
+丶:𛲄:20022:U+4e36:113796:U+1bc84:23.98:6:4
+丶:𛲆:20022:U+4e36:113798:U+1bc86:24.95:6:4
+丶:𛲇:20022:U+4e36:113799:U+1bc87:24.95:6:6
+丶:𛲐:20022:U+4e36:113808:U+1bc90:23.98:6:4
+丶:𛲒:20022:U+4e36:113810:U+1bc92:23.98:6:4
+丶:𛲔:20022:U+4e36:113812:U+1bc94:23.98:6:4
+丶:𛲖:20022:U+4e36:113814:U+1bc96:23.98:6:4
+丶:𝨑:20022:U+4e36:121361:U+1da11:23.98:6:4
+丶:𝪛:20022:U+4e36:121499:U+1da9b:24.95:6:2
+丶:𝪜:20022:U+4e36:121500:U+1da9c:24.44:6:3
+丶:𝪝:20022:U+4e36:121501:U+1da9d:25.53:6:1
+丶:𝪞:20022:U+4e36:121502:U+1da9e:25.53:6:1
+丶:𝪟:20022:U+4e36:121503:U+1da9f:24.95:6:2
+丶:𝪡:20022:U+4e36:121505:U+1daa1:24.44:6:3
+丶:𝪢:20022:U+4e36:121506:U+1daa2:24.44:6:3
+丶:𝪣:20022:U+4e36:121507:U+1daa3:24.44:6:3
+丶:𝪤:20022:U+4e36:121508:U+1daa4:24.44:6:3
+丶:𝪥:20022:U+4e36:121509:U+1daa5:24.44:6:3
+丶:𝪦:20022:U+4e36:121510:U+1daa6:24.44:6:3
+丶:𝪧:20022:U+4e36:121511:U+1daa7:24.44:6:3
+丶:𝪨:20022:U+4e36:121512:U+1daa8:23.98:6:4
+丶:𝪩:20022:U+4e36:121513:U+1daa9:23.98:6:4
+丶:𝪪:20022:U+4e36:121514:U+1daaa:23.98:6:4
+丶:𝪫:20022:U+4e36:121515:U+1daab:23.98:6:4
+丶:𝪬:20022:U+4e36:121516:U+1daac:23.98:6:4
+丶:𝪭:20022:U+4e36:121517:U+1daad:23.98:6:4
+丶:𝪮:20022:U+4e36:121518:U+1daae:23.98:6:4
+丶:𝪯:20022:U+4e36:121519:U+1daaf:23.98:6:4
+丶:𞄰:20022:U+4e36:123184:U+1e130:24.44:6:3
+丶:𞄱:20022:U+4e36:123185:U+1e131:23.98:6:4
+丶:𞄳:20022:U+4e36:123187:U+1e133:23.98:6:4
+丶:𞄴:20022:U+4e36:123188:U+1e134:24.44:6:3
+丶:𞋬:20022:U+4e36:123628:U+1e2ec:23.98:6:4
+丶:𞋮:20022:U+4e36:123630:U+1e2ee:24.95:6:2
+丶:𞥊:20022:U+4e36:125258:U+1e94a:24.95:6:2
+丶:𞥋:20022:U+4e36:125259:U+1e94b:24.44:6:3
+丷:20023:U+4e37:not similar
+丸:20024:U+4e38:not similar
+丹:20025:U+4e39:not similar
+为:20026:U+4e3a:not similar
+主:玍:20027:U+4e3b:29581:U+738d:24.44:50:53
+丼:井:20028:U+4e3c:20117:U+4e95:30.97:58:56
+丼:并:20028:U+4e3c:24182:U+5e76:23.98:58:54
+丽:20029:U+4e3d:not similar
+举:20030:U+4e3e:not similar
+丿:20031:U+4e3f:not similar
+乀:20032:U+4e40:not similar
+乁:20033:U+4e41:not similar
+乂:义:20034:U+4e42:20041:U+4e49:29.21:32:35
+乃:20035:U+4e43:not similar
+乄:20036:U+4e44:not similar
+久:20037:U+4e45:not similar
+乆:20038:U+4e46:not similar
+乇:20039:U+4e47:not similar
+么:20040:U+4e48:not similar
+义:乂:20041:U+4e49:20034:U+4e42:29.21:35:32
+乊:20042:U+4e4a:not similar
+之:20043:U+4e4b:not similar
+乌:鸟:20044:U+4e4c:40479:U+9e1f:29.21:51:54
+乍:20045:U+4e4d:not similar
+乎:20046:U+4e4e:not similar
+乏:20047:U+4e4f:not similar
+乐:20048:U+4e50:not similar
+乑:20049:U+4e51:not similar
+乒:乓:20050:U+4e52:20051:U+4e53:24.95:49:49
+乒:兵:20050:U+4e52:20853:U+5175:27.96:49:53
+乓:乒:20051:U+4e53:20050:U+4e52:24.95:49:49
+乓:兵:20051:U+4e53:20853:U+5175:27.96:49:53
+乔:20052:U+4e54:not similar
+乕:20053:U+4e55:not similar
+乖:20054:U+4e56:not similar
+乗:20055:U+4e57:not similar
+乘:20056:U+4e58:not similar
+乙:20057:U+4e59:not similar
+乚:匕:20058:U+4e5a:21269:U+5315:24.44:27:36
+乛:𐨸:20059:U+4e5b:68152:U+10a38:25.53:17:10
+乜:20060:U+4e5c:not similar
+九:20061:U+4e5d:not similar
+乞:20062:U+4e5e:not similar
+也:20063:U+4e5f:not similar
+习:20064:U+4e60:not similar
+乡:20065:U+4e61:not similar
+乢:20066:U+4e62:not similar
+乣:20067:U+4e63:not similar
+乤:20068:U+4e64:not similar
+乥:20069:U+4e65:not similar
+书:20070:U+4e66:not similar
+乧:20071:U+4e67:not similar
+乨:20072:U+4e68:not similar
+乩:20073:U+4e69:not similar
+乪:20074:U+4e6a:not similar
+乫:20075:U+4e6b:not similar
+乬:20076:U+4e6c:not similar
+乭:20077:U+4e6d:not similar
+乮:20078:U+4e6e:not similar
+乯:20079:U+4e6f:not similar
+买:20080:U+4e70:not similar
+乱:20081:U+4e71:not similar
+乲:20082:U+4e72:not similar
+乳:20083:U+4e73:not similar
+乴:20084:U+4e74:not similar
+乵:20085:U+4e75:not similar
+乶:20086:U+4e76:not similar
+乷:20087:U+4e77:not similar
+乸:20088:U+4e78:not similar
+乹:20089:U+4e79:not similar
+乺:20090:U+4e7a:not similar
+乻:20091:U+4e7b:not similar
+乼:20092:U+4e7c:not similar
+乽:20093:U+4e7d:not similar
+乾:20094:U+4e7e:not similar
+乿:20095:U+4e7f:not similar
+亀:20096:U+4e80:not similar
+亁:20097:U+4e81:not similar
+亂:20098:U+4e82:not similar
+亃:20099:U+4e83:not similar
+亄:20100:U+4e84:not similar
+亅:20101:U+4e85:not similar
+了:丁:20102:U+4e86:19969:U+4e01:24.95:28:28
+了:孒:20102:U+4e86:23378:U+5b52:25.53:28:35
+亇:20103:U+4e87:not similar
+予:矛:20104:U+4e88:30683:U+77db:24.95:41:49
+争:20105:U+4e89:not similar
+亊:20106:U+4e8a:not similar
+事:20107:U+4e8b:not similar
+二:20108:U+4e8c:not similar
+亍:于:20109:U+4e8d:20110:U+4e8e:27.96:36:40
+亍:示:20109:U+4e8d:31034:U+793a:23.98:36:46
+于:亍:20110:U+4e8e:20109:U+4e8d:27.96:40:36
+亏:亐:20111:U+4e8f:20112:U+4e90:29.21:44:47
+亐:亏:20112:U+4e90:20111:U+4e8f:29.21:47:44
+云:20113:U+4e91:not similar
+互:亙:20114:U+4e92:20121:U+4e99:24.44:58:55
+亓:20115:U+4e93:not similar
+五:20116:U+4e94:not similar
+井:丼:20117:U+4e95:20028:U+4e3c:30.97:56:58
+井:并:20117:U+4e95:24182:U+5e76:24.95:56:54
+亖:圭:20118:U+4e96:22317:U+572d:23.98:52:62
+亗:20119:U+4e97:not similar
+亘:冝:20120:U+4e98:20893:U+519d:24.44:65:74
+亙:互:20121:U+4e99:20114:U+4e92:24.44:55:58
+亚:20122:U+4e9a:not similar
+些:20123:U+4e9b:not similar
+亜:20124:U+4e9c:not similar
+亝:20125:U+4e9d:not similar
+亞:20126:U+4e9e:not similar
+亟:20127:U+4e9f:not similar
+亠:宀:20128:U+4ea0:23424:U+5b80:26.99:18:21
+亠:ꣻ:20128:U+4ea0:43259:U+a8fb:27.96:18:16
+亡:20129:U+4ea1:not similar
+亢:20130:U+4ea2:not similar
+亣:20131:U+4ea3:not similar
+交:20132:U+4ea4:not similar
+亥:20133:U+4ea5:not similar
+亦:20134:U+4ea6:not similar
+产:20135:U+4ea7:not similar
+亨:20136:U+4ea8:not similar
+亩:20137:U+4ea9:not similar
+亪:20138:U+4eaa:not similar
+享:20139:U+4eab:not similar
+京:亰:20140:U+4eac:20144:U+4eb0:25.53:56:63
+亭:20141:U+4ead:not similar
+亮:20142:U+4eae:not similar
+亯:畗:20143:U+4eaf:30039:U+7557:27.96:80:84
+亰:京:20144:U+4eb0:20140:U+4eac:25.53:63:56
+亱:20145:U+4eb1:not similar
+亲:20146:U+4eb2:not similar
+亳:20147:U+4eb3:not similar
+亴:20148:U+4eb4:not similar
+亵:20149:U+4eb5:not similar
+亶:20150:U+4eb6:not similar
+亷:20151:U+4eb7:not similar
+亸:20152:U+4eb8:not similar
+亹:20153:U+4eb9:not similar
+人:20154:U+4eba:not similar
+亻:ǀ:20155:U+4ebb:448:U+01c0:24.44:20:11
+亻:ߊ:20155:U+4ebb:1994:U+07ca:23.98:20:10
+亻:ᛁ:20155:U+4ebb:5825:U+16c1:23.98:20:14
+亻:ᥣ:20155:U+4ebb:6499:U+1963:23.98:20:10
+亻:ⵑ:20155:U+4ebb:11601:U+2d51:24.44:20:11
+亻:𐍭:20155:U+4ebb:66413:U+1036d:23.98:20:10
+亻:𐢉:20155:U+4ebb:67721:U+10889:24.44:20:11
+亻:𐣭:20155:U+4ebb:67821:U+108ed:23.98:20:10
+亻:𐤦:20155:U+4ebb:67878:U+10926:24.44:20:11
+亻:𛰌:20155:U+4ebb:113676:U+1bc0c:23.98:20:12
+亼:20156:U+4ebc:not similar
+亽:20157:U+4ebd:not similar
+亾:20158:U+4ebe:not similar
+亿:20159:U+4ebf:not similar
+什:20160:U+4ec0:not similar
+仁:20161:U+4ec1:not similar
+仂:20162:U+4ec2:not similar
+仃:20163:U+4ec3:not similar
+仄:20164:U+4ec4:not similar
+仅:20165:U+4ec5:not similar
+仆:20166:U+4ec6:not similar
+仇:20167:U+4ec7:not similar
+仈:20168:U+4ec8:not similar
+仉:20169:U+4ec9:not similar
+今:20170:U+4eca:not similar
+介:20171:U+4ecb:not similar
+仌:20172:U+4ecc:not similar
+仍:20173:U+4ecd:not similar
+从:20174:U+4ece:not similar
+仏:20175:U+4ecf:not similar
+仐:20176:U+4ed0:not similar
+仑:20177:U+4ed1:not similar
+仒:20178:U+4ed2:not similar
+仓:20179:U+4ed3:not similar
+仔:20180:U+4ed4:not similar
+仕:20181:U+4ed5:not similar
+他:20182:U+4ed6:not similar
+仗:20183:U+4ed7:not similar
+付:20184:U+4ed8:not similar
+仙:20185:U+4ed9:not similar
+仚:20186:U+4eda:not similar
+仛:20187:U+4edb:not similar
+仜:20188:U+4edc:not similar
+仝:20189:U+4edd:not similar
+仞:20190:U+4ede:not similar
+仟:仠:20191:U+4edf:20192:U+4ee0:24.44:51:52
+仟:任:20191:U+4edf:20219:U+4efb:23.98:51:59
+仠:仟:20192:U+4ee0:20191:U+4edf:24.44:52:51
+仡:20193:U+4ee1:not similar
+仢:20194:U+4ee2:not similar
+代:伐:20195:U+4ee3:20240:U+4f10:24.44:52:61
+令:20196:U+4ee4:not similar
+以:20197:U+4ee5:not similar
+仦:20198:U+4ee6:not similar
+仧:20199:U+4ee7:not similar
+仨:20200:U+4ee8:not similar
+仩:20201:U+4ee9:not similar
+仪:20202:U+4eea:not similar
+仫:20203:U+4eeb:not similar
+们:20204:U+4eec:not similar
+仭:20205:U+4eed:not similar
+仮:20206:U+4eee:not similar
+仯:20207:U+4eef:not similar
+仰:20208:U+4ef0:not similar
+仱:20209:U+4ef1:not similar
+仲:20210:U+4ef2:not similar
+仳:20211:U+4ef3:not similar
+仴:20212:U+4ef4:not similar
+仵:20213:U+4ef5:not similar
+件:20214:U+4ef6:not similar
+价:20215:U+4ef7:not similar
+仸:20216:U+4ef8:not similar
+仹:20217:U+4ef9:not similar
+仺:20218:U+4efa:not similar
+任:仟:20219:U+4efb:20191:U+4edf:23.98:59:51
+仼:佂:20220:U+4efc:20290:U+4f42:24.44:56:61
+份:20221:U+4efd:not similar
+仾:20222:U+4efe:not similar
+仿:20223:U+4eff:not similar
+伀:20224:U+4f00:not similar
+企:20225:U+4f01:not similar
+伂:20226:U+4f02:not similar
+伃:20227:U+4f03:not similar
+伄:20228:U+4f04:not similar
+伅:20229:U+4f05:not similar
+伆:20230:U+4f06:not similar
+伇:20231:U+4f07:not similar
+伈:20232:U+4f08:not similar
+伉:20233:U+4f09:not similar
+伊:20234:U+4f0a:not similar
+伋:20235:U+4f0b:not similar
+伌:20236:U+4f0c:not similar
+伍:20237:U+4f0d:not similar
+伎:20238:U+4f0e:not similar
+伏:20239:U+4f0f:not similar
+伐:代:20240:U+4f10:20195:U+4ee3:24.44:61:52
+休:体:20241:U+4f11:20307:U+4f53:26.99:59:62
+伒:20242:U+4f12:not similar
+伓:20243:U+4f13:not similar
+伔:20244:U+4f14:not similar
+伕:20245:U+4f15:not similar
+伖:20246:U+4f16:not similar
+众:20247:U+4f17:not similar
+优:20248:U+4f18:not similar
+伙:20249:U+4f19:not similar
+会:20250:U+4f1a:not similar
+伛:20251:U+4f1b:not similar
+伜:20252:U+4f1c:not similar
+伝:20253:U+4f1d:not similar
+伞:20254:U+4f1e:not similar
+伟:20255:U+4f1f:not similar
+传:20256:U+4f20:not similar
+伡:20257:U+4f21:not similar
+伢:20258:U+4f22:not similar
+伣:20259:U+4f23:not similar
+伤:20260:U+4f24:not similar
+伥:20261:U+4f25:not similar
+伦:20262:U+4f26:not similar
+伧:20263:U+4f27:not similar
+伨:20264:U+4f28:not similar
+伩:20265:U+4f29:not similar
+伪:20266:U+4f2a:not similar
+伫:20267:U+4f2b:not similar
+伬:20268:U+4f2c:not similar
+伭:20269:U+4f2d:not similar
+伮:20270:U+4f2e:not similar
+伯:20271:U+4f2f:not similar
+估:20272:U+4f30:not similar
+伱:20273:U+4f31:not similar
+伲:20274:U+4f32:not similar
+伳:20275:U+4f33:not similar
+伴:20276:U+4f34:not similar
+伵:20277:U+4f35:not similar
+伶:20278:U+4f36:not similar
+伷:20279:U+4f37:not similar
+伸:20280:U+4f38:not similar
+伹:20281:U+4f39:not similar
+伺:20282:U+4f3a:not similar
+伻:20283:U+4f3b:not similar
+似:20284:U+4f3c:not similar
+伽:20285:U+4f3d:not similar
+伾:20286:U+4f3e:not similar
+伿:20287:U+4f3f:not similar
+佀:20288:U+4f40:not similar
+佁:20289:U+4f41:not similar
+佂:仼:20290:U+4f42:20220:U+4efc:24.44:61:56
+佃:20291:U+4f43:not similar
+佄:20292:U+4f44:not similar
+佅:侏:20293:U+4f45:20367:U+4f8f:29.21:64:67
+但:20294:U+4f46:not similar
+佇:20295:U+4f47:not similar
+佈:20296:U+4f48:not similar
+佉:20297:U+4f49:not similar
+佊:20298:U+4f4a:not similar
+佋:20299:U+4f4b:not similar
+佌:20300:U+4f4c:not similar
+位:20301:U+4f4d:not similar
+低:20302:U+4f4e:not similar
+住:20303:U+4f4f:not similar
+佐:20304:U+4f50:not similar
+佑:20305:U+4f51:not similar
+佒:20306:U+4f52:not similar
+体:休:20307:U+4f53:20241:U+4f11:26.99:62:59
+佔:20308:U+4f54:not similar
+何:20309:U+4f55:not similar
+佖:20310:U+4f56:not similar
+佗:20311:U+4f57:not similar
+佘:20312:U+4f58:not similar
+余:20313:U+4f59:not similar
+佚:20314:U+4f5a:not similar
+佛:20315:U+4f5b:not similar
+作:20316:U+4f5c:not similar
+佝:20317:U+4f5d:not similar
+佞:20318:U+4f5e:not similar
+佟:20319:U+4f5f:not similar
+你:20320:U+4f60:not similar
+佡:20321:U+4f61:not similar
+佢:20322:U+4f62:not similar
+佣:20323:U+4f63:not similar
+佤:20324:U+4f64:not similar

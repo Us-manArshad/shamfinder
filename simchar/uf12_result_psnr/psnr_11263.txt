@@ -1,0 +1,648 @@
+㻵:16117:U+3ef5:not similar
+㻶:16118:U+3ef6:not similar
+㻷:16119:U+3ef7:not similar
+㻸:16120:U+3ef8:not similar
+㻹:16121:U+3ef9:not similar
+㻺:16122:U+3efa:not similar
+㻻:16123:U+3efb:not similar
+㻼:16124:U+3efc:not similar
+㻽:16125:U+3efd:not similar
+㻾:䗸:16126:U+3efe:17912:U+45f8:24.95:114:114
+㻿:16127:U+3eff:not similar
+㼀:16128:U+3f00:not similar
+㼁:16129:U+3f01:not similar
+㼂:16130:U+3f02:not similar
+㼃:16131:U+3f03:not similar
+㼄:16132:U+3f04:not similar
+㼅:16133:U+3f05:not similar
+㼆:16134:U+3f06:not similar
+㼇:16135:U+3f07:not similar
+㼈:16136:U+3f08:not similar
+㼉:16137:U+3f09:not similar
+㼊:16138:U+3f0a:not similar
+㼋:16139:U+3f0b:not similar
+㼌:16140:U+3f0c:not similar
+㼍:16141:U+3f0d:not similar
+㼎:16142:U+3f0e:not similar
+㼏:16143:U+3f0f:not similar
+㼐:16144:U+3f10:not similar
+㼑:16145:U+3f11:not similar
+㼒:16146:U+3f12:not similar
+㼓:16147:U+3f13:not similar
+㼔:16148:U+3f14:not similar
+㼕:16149:U+3f15:not similar
+㼖:16150:U+3f16:not similar
+㼗:16151:U+3f17:not similar
+㼘:16152:U+3f18:not similar
+㼙:16153:U+3f19:not similar
+㼚:16154:U+3f1a:not similar
+㼛:16155:U+3f1b:not similar
+㼜:16156:U+3f1c:not similar
+㼝:16157:U+3f1d:not similar
+㼞:16158:U+3f1e:not similar
+㼟:16159:U+3f1f:not similar
+㼠:16160:U+3f20:not similar
+㼡:16161:U+3f21:not similar
+㼢:16162:U+3f22:not similar
+㼣:16163:U+3f23:not similar
+㼤:16164:U+3f24:not similar
+㼥:16165:U+3f25:not similar
+㼦:16166:U+3f26:not similar
+㼧:16167:U+3f27:not similar
+㼨:16168:U+3f28:not similar
+㼩:16169:U+3f29:not similar
+㼪:16170:U+3f2a:not similar
+㼫:16171:U+3f2b:not similar
+㼬:16172:U+3f2c:not similar
+㼭:16173:U+3f2d:not similar
+㼮:16174:U+3f2e:not similar
+㼯:16175:U+3f2f:not similar
+㼰:16176:U+3f30:not similar
+㼱:16177:U+3f31:not similar
+㼲:16178:U+3f32:not similar
+㼳:16179:U+3f33:not similar
+㼴:16180:U+3f34:not similar
+㼵:16181:U+3f35:not similar
+㼶:16182:U+3f36:not similar
+㼷:16183:U+3f37:not similar
+㼸:16184:U+3f38:not similar
+㼹:16185:U+3f39:not similar
+㼺:16186:U+3f3a:not similar
+㼻:16187:U+3f3b:not similar
+㼼:16188:U+3f3c:not similar
+㼽:16189:U+3f3d:not similar
+㼾:16190:U+3f3e:not similar
+㼿:16191:U+3f3f:not similar
+㽀:16192:U+3f40:not similar
+㽁:16193:U+3f41:not similar
+㽂:16194:U+3f42:not similar
+㽃:16195:U+3f43:not similar
+㽄:16196:U+3f44:not similar
+㽅:16197:U+3f45:not similar
+㽆:16198:U+3f46:not similar
+㽇:16199:U+3f47:not similar
+㽈:16200:U+3f48:not similar
+㽉:16201:U+3f49:not similar
+㽊:16202:U+3f4a:not similar
+㽋:16203:U+3f4b:not similar
+㽌:16204:U+3f4c:not similar
+㽍:16205:U+3f4d:not similar
+㽎:16206:U+3f4e:not similar
+㽏:16207:U+3f4f:not similar
+㽐:16208:U+3f50:not similar
+㽑:16209:U+3f51:not similar
+㽒:16210:U+3f52:not similar
+㽓:16211:U+3f53:not similar
+㽔:16212:U+3f54:not similar
+㽕:16213:U+3f55:not similar
+㽖:㫑:16214:U+3f56:15057:U+3ad1:24.95:75:67
+㽗:16215:U+3f57:not similar
+㽘:16216:U+3f58:not similar
+㽙:16217:U+3f59:not similar
+㽚:16218:U+3f5a:not similar
+㽛:16219:U+3f5b:not similar
+㽜:16220:U+3f5c:not similar
+㽝:16221:U+3f5d:not similar
+㽞:16222:U+3f5e:not similar
+㽟:16223:U+3f5f:not similar
+㽠:16224:U+3f60:not similar
+㽡:16225:U+3f61:not similar
+㽢:16226:U+3f62:not similar
+㽣:16227:U+3f63:not similar
+㽤:16228:U+3f64:not similar
+㽥:16229:U+3f65:not similar
+㽦:16230:U+3f66:not similar
+㽧:16231:U+3f67:not similar
+㽨:16232:U+3f68:not similar
+㽩:16233:U+3f69:not similar
+㽪:16234:U+3f6a:not similar
+㽫:䗸:16235:U+3f6b:17912:U+45f8:25.53:111:114
+㽫:罋:16235:U+3f6b:32587:U+7f4b:24.95:111:115
+㽬:16236:U+3f6c:not similar
+㽭:16237:U+3f6d:not similar
+㽮:曐:16238:U+3f6e:26320:U+66d0:26.2:110:104
+㽯:16239:U+3f6f:not similar
+㽰:16240:U+3f70:not similar
+㽱:16241:U+3f71:not similar
+㽲:16242:U+3f72:not similar
+㽳:疔:16243:U+3f73:30100:U+7594:23.98:63:53
+㽴:16244:U+3f74:not similar
+㽵:16245:U+3f75:not similar
+㽶:16246:U+3f76:not similar
+㽷:16247:U+3f77:not similar
+㽸:16248:U+3f78:not similar
+㽹:16249:U+3f79:not similar
+㽺:16250:U+3f7a:not similar
+㽻:16251:U+3f7b:not similar
+㽼:16252:U+3f7c:not similar
+㽽:16253:U+3f7d:not similar
+㽾:16254:U+3f7e:not similar
+㽿:16255:U+3f7f:not similar
+㾀:16256:U+3f80:not similar
+㾁:16257:U+3f81:not similar
+㾂:㾑:16258:U+3f82:16273:U+3f91:24.44:72:71
+㾃:16259:U+3f83:not similar
+㾄:16260:U+3f84:not similar
+㾅:16261:U+3f85:not similar
+㾆:16262:U+3f86:not similar
+㾇:疸:16263:U+3f87:30136:U+75b8:23.98:78:76
+㾈:16264:U+3f88:not similar
+㾉:16265:U+3f89:not similar
+㾊:㢀:16266:U+3f8a:14464:U+3880:24.44:80:75
+㾋:16267:U+3f8b:not similar
+㾌:16268:U+3f8c:not similar
+㾍:16269:U+3f8d:not similar
+㾎:16270:U+3f8e:not similar
+㾏:16271:U+3f8f:not similar
+㾐:16272:U+3f90:not similar
+㾑:㾂:16273:U+3f91:16258:U+3f82:24.44:71:72
+㾒:16274:U+3f92:not similar
+㾓:16275:U+3f93:not similar
+㾔:16276:U+3f94:not similar
+㾕:16277:U+3f95:not similar
+㾖:16278:U+3f96:not similar
+㾗:16279:U+3f97:not similar
+㾘:16280:U+3f98:not similar
+㾙:16281:U+3f99:not similar
+㾚:16282:U+3f9a:not similar
+㾛:16283:U+3f9b:not similar
+㾜:16284:U+3f9c:not similar
+㾝:庫:16285:U+3f9d:24235:U+5eab:24.44:94:89
+㾞:庮:16286:U+3f9e:24238:U+5eae:24.44:96:91
+㾟:16287:U+3f9f:not similar
+㾠:16288:U+3fa0:not similar
+㾡:16289:U+3fa1:not similar
+㾢:16290:U+3fa2:not similar
+㾣:㕋:16291:U+3fa3:13643:U+354b:26.99:81:76
+㾤:16292:U+3fa4:not similar
+㾥:16293:U+3fa5:not similar
+㾦:瘖:16294:U+3fa6:30230:U+7616:24.44:81:86
+㾧:16295:U+3fa7:not similar
+㾨:㢊:16296:U+3fa8:14474:U+388a:24.44:80:75
+㾩:16297:U+3fa9:not similar
+㾪:16298:U+3faa:not similar
+㾫:16299:U+3fab:not similar
+㾬:16300:U+3fac:not similar
+㾭:16301:U+3fad:not similar
+㾮:16302:U+3fae:not similar
+㾯:16303:U+3faf:not similar
+㾰:16304:U+3fb0:not similar
+㾱:廃:16305:U+3fb1:24259:U+5ec3:27.96:84:80
+㾲:廒:16306:U+3fb2:24274:U+5ed2:24.44:92:87
+㾳:16307:U+3fb3:not similar
+㾴:16308:U+3fb4:not similar
+㾵:16309:U+3fb5:not similar
+㾶:16310:U+3fb6:not similar
+㾷:16311:U+3fb7:not similar
+㾸:16312:U+3fb8:not similar
+㾹:16313:U+3fb9:not similar
+㾺:16314:U+3fba:not similar
+㾻:16315:U+3fbb:not similar
+㾼:16316:U+3fbc:not similar
+㾽:16317:U+3fbd:not similar
+㾾:16318:U+3fbe:not similar
+㾿:廊:16319:U+3fbf:24266:U+5eca:27.96:88:84
+㿀:16320:U+3fc0:not similar
+㿁:16321:U+3fc1:not similar
+㿂:16322:U+3fc2:not similar
+㿃:16323:U+3fc3:not similar
+㿄:16324:U+3fc4:not similar
+㿅:16325:U+3fc5:not similar
+㿆:16326:U+3fc6:not similar
+㿇:16327:U+3fc7:not similar
+㿈:㢕:16328:U+3fc8:14485:U+3895:24.44:96:91
+㿉:16329:U+3fc9:not similar
+㿊:16330:U+3fca:not similar
+㿋:16331:U+3fcb:not similar
+㿌:16332:U+3fcc:not similar
+㿍:16333:U+3fcd:not similar
+㿎:16334:U+3fce:not similar
+㿏:16335:U+3fcf:not similar
+㿐:16336:U+3fd0:not similar
+㿑:16337:U+3fd1:not similar
+㿒:16338:U+3fd2:not similar
+㿓:16339:U+3fd3:not similar
+㿔:16340:U+3fd4:not similar
+㿕:16341:U+3fd5:not similar
+㿖:廬:16342:U+3fd6:24300:U+5eec:24.44:106:101
+㿗:16343:U+3fd7:not similar
+㿘:16344:U+3fd8:not similar
+㿙:16345:U+3fd9:not similar
+㿚:16346:U+3fda:not similar
+㿛:廲:16347:U+3fdb:24306:U+5ef2:24.44:118:113
+㿜:16348:U+3fdc:not similar
+㿝:16349:U+3fdd:not similar
+㿞:16350:U+3fde:not similar
+㿟:16351:U+3fdf:not similar
+㿠:16352:U+3fe0:not similar
+㿡:16353:U+3fe1:not similar
+㿢:16354:U+3fe2:not similar
+㿣:16355:U+3fe3:not similar
+㿤:16356:U+3fe4:not similar
+㿥:16357:U+3fe5:not similar
+㿦:16358:U+3fe6:not similar
+㿧:16359:U+3fe7:not similar
+㿨:16360:U+3fe8:not similar
+㿩:16361:U+3fe9:not similar
+㿪:16362:U+3fea:not similar
+㿫:16363:U+3feb:not similar
+㿬:16364:U+3fec:not similar
+㿭:16365:U+3fed:not similar
+㿮:16366:U+3fee:not similar
+㿯:16367:U+3fef:not similar
+㿰:16368:U+3ff0:not similar
+㿱:16369:U+3ff1:not similar
+㿲:16370:U+3ff2:not similar
+㿳:16371:U+3ff3:not similar
+㿴:16372:U+3ff4:not similar
+㿵:16373:U+3ff5:not similar
+㿶:16374:U+3ff6:not similar
+㿷:16375:U+3ff7:not similar
+㿸:16376:U+3ff8:not similar
+㿹:16377:U+3ff9:not similar
+㿺:16378:U+3ffa:not similar
+㿻:16379:U+3ffb:not similar
+㿼:16380:U+3ffc:not similar
+㿽:16381:U+3ffd:not similar
+㿾:16382:U+3ffe:not similar
+㿿:16383:U+3fff:not similar
+䀀:16384:U+4000:not similar
+䀁:16385:U+4001:not similar
+䀂:16386:U+4002:not similar
+䀃:16387:U+4003:not similar
+䀄:16388:U+4004:not similar
+䀅:16389:U+4005:not similar
+䀆:16390:U+4006:not similar
+䀇:16391:U+4007:not similar
+䀈:16392:U+4008:not similar
+䀉:16393:U+4009:not similar
+䀊:16394:U+400a:not similar
+䀋:16395:U+400b:not similar
+䀌:衋:16396:U+400c:34891:U+884b:33.98:118:119
+䀍:16397:U+400d:not similar
+䀎:16398:U+400e:not similar
+䀏:16399:U+400f:not similar
+䀐:16400:U+4010:not similar
+䀑:16401:U+4011:not similar
+䀒:盰:16402:U+4012:30448:U+76f0:25.53:66:65
+䀒:盱:16402:U+4012:30449:U+76f1:23.98:66:66
+䀓:16403:U+4013:not similar
+䀔:16404:U+4014:not similar
+䀕:16405:U+4015:not similar
+䀖:16406:U+4016:not similar
+䀗:16407:U+4017:not similar
+䀘:16408:U+4018:not similar
+䀙:16409:U+4019:not similar
+䀚:16410:U+401a:not similar
+䀛:昒:16411:U+401b:26130:U+6612:26.2:75:73
+䀜:16412:U+401c:not similar
+䀝:16413:U+401d:not similar
+䀞:16414:U+401e:not similar
+䀟:16415:U+401f:not similar
+䀠:16416:U+4020:not similar
+䀡:16417:U+4021:not similar
+䀢:16418:U+4022:not similar
+䀣:16419:U+4023:not similar
+䀤:16420:U+4024:not similar
+䀥:16421:U+4025:not similar
+䀦:16422:U+4026:not similar
+䀧:16423:U+4027:not similar
+䀨:16424:U+4028:not similar
+䀩:16425:U+4029:not similar
+䀪:16426:U+402a:not similar
+䀫:16427:U+402b:not similar
+䀬:16428:U+402c:not similar
+䀭:16429:U+402d:not similar
+䀮:16430:U+402e:not similar
+䀯:晡:16431:U+402f:26209:U+6661:26.2:95:93
+䀰:16432:U+4030:not similar
+䀱:16433:U+4031:not similar
+䀲:晦:16434:U+4032:26214:U+6666:25.53:86:85
+䀳:16435:U+4033:not similar
+䀴:16436:U+4034:not similar
+䀵:16437:U+4035:not similar
+䀶:㫰:16438:U+4036:15088:U+3af0:26.2:81:79
+䀷:16439:U+4037:not similar
+䀸:16440:U+4038:not similar
+䀹:16441:U+4039:not similar
+䀺:16442:U+403a:not similar
+䀻:16443:U+403b:not similar
+䀼:16444:U+403c:not similar
+䀽:16445:U+403d:not similar
+䀾:16446:U+403e:not similar
+䀿:16447:U+403f:not similar
+䁀:16448:U+4040:not similar
+䁁:晾:16449:U+4041:26238:U+667e:26.2:76:74
+䁂:腎:16450:U+4042:33102:U+814e:24.95:93:87
+䁃:16451:U+4043:not similar
+䁄:16452:U+4044:not similar
+䁅:16453:U+4045:not similar
+䁆:唵:16454:U+4046:21813:U+5535:23.98:93:87
+䁆:晻:16454:U+4046:26235:U+667b:26.2:93:91
+䁇:16455:U+4047:not similar
+䁈:䏿:16456:U+4048:17407:U+43ff:24.95:84:78
+䁉:16457:U+4049:not similar
+䁊:16458:U+404a:not similar
+䁋:16459:U+404b:not similar
+䁌:16460:U+404c:not similar
+䁍:16461:U+404d:not similar
+䁎:16462:U+404e:not similar
+䁏:喓:16463:U+404f:21907:U+5593:23.98:96:90
+䁐:暎:16464:U+4050:26254:U+668e:26.2:85:83
+䁑:16465:U+4051:not similar
+䁒:16466:U+4052:not similar
+䁓:16467:U+4053:not similar
+䁔:16468:U+4054:not similar
+䁕:㬆:16469:U+4055:15110:U+3b06:26.2:101:99
+䁖:16470:U+4056:not similar
+䁗:16471:U+4057:not similar
+䁘:16472:U+4058:not similar
+䁙:16473:U+4059:not similar
+䁚:16474:U+405a:not similar
+䁛:16475:U+405b:not similar
+䁜:16476:U+405c:not similar
+䁝:16477:U+405d:not similar
+䁞:16478:U+405e:not similar
+䁟:暛:16479:U+405f:26267:U+669b:26.2:86:84
+䁠:16480:U+4060:not similar
+䁡:16481:U+4061:not similar
+䁢:暶:16482:U+4062:26294:U+66b6:26.2:96:94
+䁣:16483:U+4063:not similar
+䁤:16484:U+4064:not similar
+䁥:16485:U+4065:not similar
+䁦:16486:U+4066:not similar
+䁧:16487:U+4067:not similar
+䁨:㬑:16488:U+4068:15121:U+3b11:26.2:98:96
+䁩:16489:U+4069:not similar
+䁪:16490:U+406a:not similar
+䁫:16491:U+406b:not similar
+䁬:㬝:16492:U+406c:15133:U+3b1d:26.2:97:95
+䁭:16493:U+406d:not similar
+䁮:16494:U+406e:not similar
+䁯:㬛:16495:U+406f:15131:U+3b1b:26.2:89:87
+䁰:16496:U+4070:not similar
+䁱:16497:U+4071:not similar
+䁲:16498:U+4072:not similar
+䁳:16499:U+4073:not similar
+䁴:16500:U+4074:not similar
+䁵:16501:U+4075:not similar
+䁶:曒:16502:U+4076:26322:U+66d2:26.2:102:100
+䁷:16503:U+4077:not similar
+䁸:16504:U+4078:not similar
+䁹:16505:U+4079:not similar
+䁺:16506:U+407a:not similar
+䁻:嚛:16507:U+407b:22171:U+569b:24.95:104:98
+䁼:16508:U+407c:not similar
+䁽:16509:U+407d:not similar
+䁾:16510:U+407e:not similar
+䁿:16511:U+407f:not similar
+䂀:曦:16512:U+4080:26342:U+66e6:26.2:104:102
+䂁:16513:U+4081:not similar
+䂂:㬬:16514:U+4082:15148:U+3b2c:26.2:121:119
+䂃:16515:U+4083:not similar
+䂄:16516:U+4084:not similar
+䂅:16517:U+4085:not similar
+䂆:16518:U+4086:not similar
+䂇:16519:U+4087:not similar
+䂈:16520:U+4088:not similar
+䂉:16521:U+4089:not similar
+䂊:16522:U+408a:not similar
+䂋:16523:U+408b:not similar
+䂌:16524:U+408c:not similar
+䂍:16525:U+408d:not similar
+䂎:16526:U+408e:not similar
+䂏:16527:U+408f:not similar
+䂐:16528:U+4090:not similar
+䂑:16529:U+4091:not similar
+䂒:16530:U+4092:not similar
+䂓:16531:U+4093:not similar
+䂔:16532:U+4094:not similar
+䂕:16533:U+4095:not similar
+䂖:石:16534:U+4096:30707:U+77f3:29.21:59:56
+䂗:16535:U+4097:not similar
+䂘:16536:U+4098:not similar
+䂙:16537:U+4099:not similar
+䂚:16538:U+409a:not similar
+䂛:16539:U+409b:not similar
+䂜:砗:16540:U+409c:30743:U+7817:23.98:71:73
+䂝:16541:U+409d:not similar
+䂞:16542:U+409e:not similar
+䂟:16543:U+409f:not similar
+䂠:16544:U+40a0:not similar
+䂡:16545:U+40a1:not similar
+䂢:16546:U+40a2:not similar
+䂣:16547:U+40a3:not similar
+䂤:16548:U+40a4:not similar
+䂥:16549:U+40a5:not similar
+䂦:16550:U+40a6:not similar
+䂧:16551:U+40a7:not similar
+䂨:16552:U+40a8:not similar
+䂩:16553:U+40a9:not similar
+䂪:16554:U+40aa:not similar
+䂫:16555:U+40ab:not similar
+䂬:16556:U+40ac:not similar
+䂭:16557:U+40ad:not similar
+䂮:16558:U+40ae:not similar
+䂯:16559:U+40af:not similar
+䂰:16560:U+40b0:not similar
+䂱:16561:U+40b1:not similar
+䂲:16562:U+40b2:not similar
+䂳:16563:U+40b3:not similar
+䂴:16564:U+40b4:not similar
+䂵:16565:U+40b5:not similar
+䂶:16566:U+40b6:not similar
+䂷:16567:U+40b7:not similar
+䂸:16568:U+40b8:not similar
+䂹:16569:U+40b9:not similar
+䂺:16570:U+40ba:not similar
+䂻:16571:U+40bb:not similar
+䂼:16572:U+40bc:not similar
+䂽:16573:U+40bd:not similar
+䂾:16574:U+40be:not similar
+䂿:16575:U+40bf:not similar
+䃀:16576:U+40c0:not similar
+䃁:16577:U+40c1:not similar
+䃂:16578:U+40c2:not similar
+䃃:16579:U+40c3:not similar
+䃄:16580:U+40c4:not similar
+䃅:16581:U+40c5:not similar
+䃆:16582:U+40c6:not similar
+䃇:16583:U+40c7:not similar
+䃈:16584:U+40c8:not similar
+䃉:16585:U+40c9:not similar
+䃊:16586:U+40ca:not similar
+䃋:16587:U+40cb:not similar
+䃌:16588:U+40cc:not similar
+䃍:16589:U+40cd:not similar
+䃎:16590:U+40ce:not similar
+䃏:16591:U+40cf:not similar
+䃐:16592:U+40d0:not similar
+䃑:16593:U+40d1:not similar
+䃒:16594:U+40d2:not similar
+䃓:16595:U+40d3:not similar
+䃔:16596:U+40d4:not similar
+䃕:16597:U+40d5:not similar
+䃖:16598:U+40d6:not similar
+䃗:16599:U+40d7:not similar
+䃘:16600:U+40d8:not similar
+䃙:16601:U+40d9:not similar
+䃚:16602:U+40da:not similar
+䃛:16603:U+40db:not similar
+䃜:16604:U+40dc:not similar
+䃝:16605:U+40dd:not similar
+䃞:16606:U+40de:not similar
+䃟:16607:U+40df:not similar
+䃠:16608:U+40e0:not similar
+䃡:16609:U+40e1:not similar
+䃢:16610:U+40e2:not similar
+䃣:16611:U+40e3:not similar
+䃤:16612:U+40e4:not similar
+䃥:16613:U+40e5:not similar
+䃦:16614:U+40e6:not similar
+䃧:16615:U+40e7:not similar
+䃨:16616:U+40e8:not similar
+䃩:16617:U+40e9:not similar
+䃪:16618:U+40ea:not similar
+䃫:16619:U+40eb:not similar
+䃬:16620:U+40ec:not similar
+䃭:16621:U+40ed:not similar
+䃮:16622:U+40ee:not similar
+䃯:16623:U+40ef:not similar
+䃰:16624:U+40f0:not similar
+䃱:16625:U+40f1:not similar
+䃲:16626:U+40f2:not similar
+䃳:16627:U+40f3:not similar
+䃴:16628:U+40f4:not similar
+䃵:16629:U+40f5:not similar
+䃶:16630:U+40f6:not similar
+䃷:16631:U+40f7:not similar
+䃸:16632:U+40f8:not similar
+䃹:16633:U+40f9:not similar
+䃺:16634:U+40fa:not similar
+䃻:16635:U+40fb:not similar
+䃼:16636:U+40fc:not similar
+䃽:衼:16637:U+40fd:34940:U+887c:26.2:66:66
+䃾:16638:U+40fe:not similar
+䃿:祑:16639:U+40ff:31057:U+7951:26.99:61:66
+䃿:衭:16639:U+40ff:34925:U+886d:24.95:61:63
+䃿:袟:16639:U+40ff:34975:U+889f:24.44:61:64
+䄀:16640:U+4100:not similar
+䄁:袣:16641:U+4101:34979:U+88a3:26.2:77:77
+䄂:袖:16642:U+4102:34966:U+8896:25.53:77:78
+䄃:䘧:16643:U+4103:17959:U+4627:26.2:70:72
+䄄:16644:U+4104:not similar
+䄅:16645:U+4105:not similar
+䄆:16646:U+4106:not similar
+䄇:裎:16647:U+4107:35022:U+88ce:25.53:75:74
+䄈:裋:16648:U+4108:35019:U+88cb:25.53:68:69
+䄉:16649:U+4109:not similar
+䄊:16650:U+410a:not similar
+䄋:裺:16651:U+410b:35066:U+88fa:26.99:82:81
+䄌:16652:U+410c:not similar
+䄍:16653:U+410d:not similar
+䄎:裿:16654:U+410e:35071:U+88ff:25.53:74:75
+䄏:16655:U+410f:not similar
+䄐:16656:U+4110:not similar
+䄑:16657:U+4111:not similar
+䄒:16658:U+4112:not similar
+䄓:16659:U+4113:not similar
+䄔:16660:U+4114:not similar
+䄕:16661:U+4115:not similar
+䄖:16662:U+4116:not similar
+䄗:16663:U+4117:not similar
+䄘:16664:U+4118:not similar
+䄙:16665:U+4119:not similar
+䄚:16666:U+411a:not similar
+䄛:褸:16667:U+411b:35128:U+8938:29.21:98:97
+䄜:褵:16668:U+411c:35125:U+8935:26.2:86:86
+䄝:16669:U+411d:not similar
+䄞:16670:U+411e:not similar
+䄟:㯔:16671:U+411f:15316:U+3bd4:23.98:97:101
+䄠:襢:16672:U+4120:35170:U+8962:26.2:95:95
+䄡:襜:16673:U+4121:35164:U+895c:26.2:91:91
+䄢:16674:U+4122:not similar
+䄣:襩:16675:U+4123:35177:U+8969:25.53:97:98
+䄤:16676:U+4124:not similar
+䄥:16677:U+4125:not similar
+䄦:秄:16678:U+4126:31172:U+79c4:25.53:58:65
+䄧:16679:U+4127:not similar
+䄨:䄭:16680:U+4128:16685:U+412d:23.98:64:64
+䄨:秆:16680:U+4128:31174:U+79c6:29.21:64:63
+䄩:16681:U+4129:not similar
+䄪:16682:U+412a:not similar
+䄫:16683:U+412b:not similar
+䄬:16684:U+412c:not similar
+䄭:䄨:16685:U+412d:16680:U+4128:23.98:64:64
+䄭:秆:16685:U+412d:31174:U+79c6:25.53:64:63
+䄮:秩:16686:U+412e:31209:U+79e9:24.95:69:73
+䄯:16687:U+412f:not similar
+䄰:16688:U+4130:not similar
+䄱:16689:U+4131:not similar
+䄲:16690:U+4132:not similar
+䄳:16691:U+4133:not similar
+䄴:16692:U+4134:not similar
+䄵:16693:U+4135:not similar
+䄶:16694:U+4136:not similar
+䄷:16695:U+4137:not similar
+䄸:16696:U+4138:not similar
+䄹:16697:U+4139:not similar
+䄺:16698:U+413a:not similar
+䄻:16699:U+413b:not similar
+䄼:16700:U+413c:not similar
+䄽:16701:U+413d:not similar
+䄾:16702:U+413e:not similar
+䄿:16703:U+413f:not similar
+䅀:16704:U+4140:not similar
+䅁:16705:U+4141:not similar
+䅂:16706:U+4142:not similar
+䅃:16707:U+4143:not similar
+䅄:16708:U+4144:not similar
+䅅:16709:U+4145:not similar
+䅆:16710:U+4146:not similar
+䅇:16711:U+4147:not similar
+䅈:16712:U+4148:not similar
+䅉:16713:U+4149:not similar
+䅊:16714:U+414a:not similar
+䅋:16715:U+414b:not similar
+䅌:16716:U+414c:not similar
+䅍:16717:U+414d:not similar
+䅎:16718:U+414e:not similar
+䅏:16719:U+414f:not similar
+䅐:16720:U+4150:not similar
+䅑:16721:U+4151:not similar
+䅒:16722:U+4152:not similar
+䅓:16723:U+4153:not similar
+䅔:16724:U+4154:not similar
+䅕:16725:U+4155:not similar
+䅖:16726:U+4156:not similar
+䅗:16727:U+4157:not similar
+䅘:16728:U+4158:not similar
+䅙:16729:U+4159:not similar
+䅚:16730:U+415a:not similar
+䅛:16731:U+415b:not similar
+䅜:16732:U+415c:not similar
+䅝:16733:U+415d:not similar
+䅞:16734:U+415e:not similar
+䅟:16735:U+415f:not similar
+䅠:16736:U+4160:not similar
+䅡:16737:U+4161:not similar
+䅢:16738:U+4162:not similar
+䅣:16739:U+4163:not similar
+䅤:16740:U+4164:not similar
+䅥:16741:U+4165:not similar
+䅦:16742:U+4166:not similar
+䅧:16743:U+4167:not similar
+䅨:16744:U+4168:not similar
+䅩:16745:U+4169:not similar
+䅪:16746:U+416a:not similar
+䅫:16747:U+416b:not similar
+䅬:16748:U+416c:not similar
+䅭:16749:U+416d:not similar
+䅮:16750:U+416e:not similar
+䅯:16751:U+416f:not similar
+䅰:16752:U+4170:not similar
+䅱:16753:U+4171:not similar
+䅲:16754:U+4172:not similar
+䅳:16755:U+4173:not similar
+䅴:16756:U+4174:not similar
+䅵:16757:U+4175:not similar
